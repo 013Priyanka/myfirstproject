@@ -1,3 +1,5 @@
+//https://github.com/013Priyanka/myfirstproject
+//https://github.com/013Priyanka/myfirstproject/tree/master/All_Java_Programs/src/src
 package src;
 
 import java.util.Scanner;
